@@ -13,13 +13,16 @@ function Header() {
                     <a className="nav-link active" aria-current="page" href="/">Home</a>
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link active" aria-current="page" href="/About Us">About Us</a>
+                    <a className="nav-link active" aria-current="page" href="/AboutUs">About Us</a>
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link active" aria-current="page" href="/Tour Sites and Guides">Tour Sites and Guides</a>
+                    <a className="nav-link active" aria-current="page" href="/TourSitesandGuides">Tour Sites and Guides</a>
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link active" aria-current="page" href="/Contact Us">Contact Us</a>
+                    <a className="nav-link active" aria-current="page" href="/PlanYourTour">Plan Your Tour</a>
+                    </li>
+                    <li className="nav-item">
+                    <a className="nav-link active" aria-current="page" href="/ContactUs">Contact Us</a>
                     </li>
                     <li className="nav-item">
                     <a className="nav-link active" aria-current="page" href="/Gallery">Gallery</a>
